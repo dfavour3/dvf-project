@@ -5,24 +5,23 @@ body{margin:0;
 	width:100%;
 	}
 	
-.header{
-			cellpadding:10px;
-			position:fixed;
-			height:100px;
-			top:0;
-			width:100%;
-			max-width:100%;
-			background-color: purple;
-			}
+.header{cellpadding:10px;
+	position:fixed;
+	height:100px;
+	top:0;
+	width:100%;
+	max-width:100%;
+	background-color: purple;
+	}
 			
 .first-div{position: absolute;
-		background-color:white;
-		width:80%;
-		max-width:100%;
-		top:10px;
-		left: 130px;
-		bottom:10px;
-		border-radius: 50px;
+	background-color:white;
+	width:80%;
+	max-width:100%;
+	top:10px;
+	left: 130px;
+	bottom:10px;
+	border-radius: 50px;
 }
 
 .image1{max-width:100%;
@@ -63,7 +62,7 @@ h1{font-size: 40px;
 	left:460px;
 	}
 	
- h3{color:FFFFFF;
+ h3{color:purple;
  position:relative;
  top:90px;
 }
