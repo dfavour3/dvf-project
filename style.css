@@ -1,0 +1,224 @@
+
+body{margin:0px;
+	width:100%;
+	}
+	
+.header{
+			cellpadding:10px;
+			position:fixed;
+			height:100px;
+			top:0;
+			width:100%;
+			max-width:100%;
+			background-color: purple;
+			}
+			
+.first-div{position: absolute;
+		background-color:white;
+		width:80%;
+		max-width:100%;
+		top:10px;
+		left: 130px;
+		bottom:10px;
+		border-radius: 50px;
+}
+
+.image1{max-width:100%;
+	width:100px;
+	height:80px;
+	position: absolute;
+	top:10px;
+	right:20px;
+	}
+
+.image2{width:100px;
+max-width:100%;
+	height:80px;
+	position: absolute;
+	top:10px;
+	left:20px;
+	}
+			
+.logo{width:80px;
+max-width:100%;
+	height:50px;
+	position: absolute;
+	top:12px;
+	left:100px;
+	background-color: rgba(0,0,0,0.0);
+	}
+
+h1{font-size: 40px;
+	background-color:white;
+	color:black;
+	position:absolute;
+	top:-8%;
+	left:400px;
+	position: absolute;
+	}	
+.motto{position:absolute;
+	top:45px;
+	left:460px;
+	}
+	
+ h3{color:FFFFFF;
+ position:relative;
+ top:90px;
+}
+
+.second_div{position:relative;
+			height:300px;
+			width:80%;
+			max-width:100%;
+			left:150px;
+			top:190px;
+			border-width:2px;
+			border-color:purple;
+			border-radius: 0 100px 0 90px;
+			background-color:CCCCFF;
+}
+.image{width:180px;
+	max-width:100%;
+		height:200px;
+		top: 50px;
+		left:70px;
+		position:relative;
+		}
+.text{position:relative;
+			height:5px;
+			width:50%;
+			max-width:100%;
+			left:200px;
+			top:220px;
+			border-width:2px;
+			border-color:purple;
+			border-radius:50px 150px 50px 50px;
+			background-color:FFFFFF;
+			font-size: 20;
+}
+
+.chops{position:absolute;
+		height:200px;
+		width:200px;
+		max-width:100%;
+		top:700px;
+		right:10%;
+}
+
+.chops:hover{position:absolute;
+		height:400px;
+		width:400px;
+		max-width:100%;
+		top:600px;
+		right:5%;
+}
+
+.offer{position:absolute;
+		height:70px;
+		width:70px;
+		max-width:100%;
+		top:610px;
+		right:14%;
+}
+
+.deals{position:absolute;
+		height:100px;
+		width:100px;
+		max-width:100%;
+		top:10px;
+		left:2%;
+}
+
+.smallchops{position:relative;
+			height:500px;
+			width:50%;
+			max-width:100%;
+			left:150px;
+			top:300px;
+			border-width:2px;
+			border-color:purple;
+			border-radius:50px 150px 50px 50px;
+			background-color:CCCCFF;
+			}
+.images{width:180px;
+max-width:100%;
+		height:150px;
+		top: 30px;
+		left:70px;
+		position:relative;
+		}
+		
+.imagess{width:180px;
+	max-width:100%;
+		height:150px;
+		top: 50px;
+		left:70px;
+		position:relative;
+		}
+
+
+hr{border:3px dashed;
+	color:purple;
+}
+
+hrstyle{position:absolute;
+}
+			
+.dform{width:600px;
+		max-width:100%;
+		height:500px;
+		top:190%;
+		left:25%; 
+		position:absolute;
+		background-color:white;
+		border-width:5px;
+		border-style:solid;
+		}
+.ddform{margin-left:30px;
+}
+	
+h4{color:purple;
+	}
+	
+
+.comment{
+		margin: 2px 0px 0px 50px;
+}
+
+.btn{font-family: elephant;
+	padding: 2px 4px 2px 4px;
+	margin: 5px 0px 0px 300px;
+	border-radius: 15px;
+}
+
+.btn:hover{font-family: elephant;
+	padding: 2px 4px 2px 4px;
+	margin: 5px 0px 0px 300px;
+	border-radius: 15px;
+	background-color: purple;
+	color: white;
+}
+
+footer{cellpadding:2px;
+		margin:0px;
+		position:absolute;
+		top:280%;
+		height:100px;
+		bottom:0;
+		width:100%;
+		max-width:100%;
+		background-color: purple;
+	}
+.footertex{color:white;
+			font:16;
+			position:absolute;
+			right: 5px;
+			top:-10%;
+}
+.footertext{color:white;
+			font:16;
+			text-align:center;
+}
+
+
+ 
